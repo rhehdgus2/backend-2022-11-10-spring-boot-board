@@ -7,7 +7,7 @@ import com.kdh.board.dto.auth.LoginDto;
 
 import com.kdh.board.dto.response.ResponseDto;
 
-// @Service : 해당 클래스가 Service 레이어 역할을 한다.
+// @Service : 해당 클래스가 Service 레이어 역할을 한다
 @Service
 public class AuthService {
 	
